@@ -1,5 +1,15 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #151f42;
+    background: #000000;
     color: #c7d1d6;
+	text-align: center;
+}
+
+h1 {
+	font-size: 70px;
+	padding-top: 15px;
+}
+
+footer {
+	padding-bottom: 10px;
 }
