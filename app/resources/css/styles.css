@@ -13,3 +13,8 @@ h1 {
 footer {
 	padding-bottom: 10px;
 }
+
+.solar-system {
+    position: relative;
+    height: 600px;
+}
