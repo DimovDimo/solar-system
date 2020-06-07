@@ -18,3 +18,8 @@ footer {
     position: relative;
     height: 600px;
 }
+
+.solar-system li {
+    position: absolute;
+    border: 0.1em solid #181e30;
+}
