@@ -23,3 +23,10 @@ footer {
     position: absolute;
     border: 0.1em solid #181e30;
 }
+
+.solar-system li span {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+}
