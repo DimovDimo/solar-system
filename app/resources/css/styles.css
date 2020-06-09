@@ -30,3 +30,9 @@ footer {
     height: 10px;
     border-radius: 10px;
 }
+
+.solar-system .sun {
+	width: 100px;
+    height: 100px;
+    border-radius: 100px;
+}
