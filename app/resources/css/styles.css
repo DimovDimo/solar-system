@@ -32,7 +32,18 @@ footer {
 }
 
 .solar-system .sun {
-	width: 100px;
+    width: 100px;
     height: 100px;
-    border-radius: 100px;
+    border: none;
+    top: 350px;
+    left: 350px;
+}
+
+.solar-system .sun span {
+    right: 44px;
+    bottom: 37px;
+}
+
+.solar-system .sun img {
+    width: 70px;
 }
