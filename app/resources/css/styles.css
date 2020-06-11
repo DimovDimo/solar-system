@@ -47,3 +47,19 @@ footer {
 .solar-system .sun img {
     width: 70px;
 }
+
+.solar-system .mercury {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    top: 375px;
+    left: 376px;
+}
+.solar-system .mercury span {
+    top: 6px;
+    left: 10px;
+}
+
+.solar-system .mercury img {
+    width: 15px;
+}
