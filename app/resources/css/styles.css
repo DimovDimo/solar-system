@@ -63,3 +63,20 @@ footer {
 .solar-system .mercury img {
     width: 15px;
 }
+
+.solar-system .venus {
+    width: 160px;
+    height: 160px;
+    border-radius: 160px;
+    top: 345px;
+    left: 345px;
+}
+
+.solar-system .venus span {
+    top: 115px;
+    left: 4px;
+}
+
+.solar-system .venus img {
+    width: 20px;
+}
