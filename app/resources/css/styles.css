@@ -19,52 +19,53 @@ footer {
     height: 600px;
 }
 
-.solar-system li {
+li {
     position: absolute;
     border: 0.1em solid #181e30;
 }
 
-.solar-system li span {
+span {
     position: absolute;
     width: 10px;
     height: 10px;
     border-radius: 10px;
 }
 
-.solar-system .sun {
+.sun {
     width: 100px;
     height: 100px;
-    border: none;
+	border: none;
     top: 350px;
     left: 350px;
 }
 
-.solar-system .sun span {
+.sun span {
     right: 44px;
     bottom: 37px;
 }
 
-.solar-system .sun img {
+.sun img {
     width: 70px;
 }
 
-.solar-system .mercury {
+.mercury {
     width: 100px;
     height: 100px;
     border-radius: 100px;
     top: 375px;
     left: 376px;
 }
-.solar-system .mercury span {
+
+.mercury span {
     top: 6px;
     left: 10px;
 }
 
-.solar-system .mercury img {
+.mercury img {
     width: 15px;
 }
 
-.solar-system .venus {
+.venus {
     width: 160px;
     height: 160px;
     border-radius: 160px;
@@ -72,11 +73,11 @@ footer {
     left: 345px;
 }
 
-.solar-system .venus span {
+.venus span {
     top: 115px;
     left: 4px;
 }
 
-.solar-system .venus img {
+.venus img {
     width: 20px;
 }
