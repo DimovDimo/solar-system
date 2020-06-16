@@ -81,3 +81,20 @@ span {
 .venus img {
     width: 20px;
 }
+
+.earth {
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    top: 300px;
+    left: 300px;
+}
+
+.earth span {
+    top: 85px;
+    left: 1px;
+}
+
+.earth img {
+    width: 20px;
+}
