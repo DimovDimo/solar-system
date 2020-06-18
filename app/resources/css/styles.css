@@ -98,3 +98,12 @@ span {
 .earth img {
     width: 20px;
 }
+
+span .moon {
+    top: 11px;
+    left: 25px;
+}
+
+span .moon  img {
+    width: 7px;
+}
