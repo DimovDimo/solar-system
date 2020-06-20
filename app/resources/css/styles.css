@@ -107,3 +107,12 @@ span .moon {
 span .moon  img {
     width: 7px;
 }
+
+span .space-station {
+    top: 30px;
+    left: 10px;
+}
+
+span .space-station  img {
+    width: 7px;
+}
