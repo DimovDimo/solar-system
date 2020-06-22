@@ -116,3 +116,19 @@ span .space-station {
 span .space-station  img {
     width: 7px;
 }
+
+.mars {
+    width: 350px;
+    height: 350px;
+    border-radius: 350px;
+    top: 250px;
+    left: 250px;
+}
+
+.mars span {
+    left: 115px;
+}
+
+.mars img {
+    width: 15px;
+}
