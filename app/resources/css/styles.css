@@ -150,3 +150,20 @@ span .deimos {
 span .deimos  img {
     width: 5px;
 }
+
+.jupiter {
+    width: 425px;
+    height: 425px;
+    border-radius: 425px;
+    top: 210px;
+    left: 210px;
+}
+
+.jupiter span {
+    top: 85px;
+    left: 25px;
+}
+
+.jupiter img {
+    width: 20px;
+}
