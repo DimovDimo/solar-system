@@ -220,3 +220,21 @@ span .callisto  img {
 .saturn img {
     width: 30px;
 }
+
+span .titan {
+    top: 20px;
+    left: 20px;
+}
+
+span .titan  img {
+    width: 5px;
+}
+
+span .rhea {
+    top: 25px;
+    left: 10px;
+}
+
+span .rhea  img {
+    width: 4px;
+}
