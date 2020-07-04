@@ -238,3 +238,20 @@ span .rhea {
 span .rhea  img {
     width: 4px;
 }
+
+.uranus {
+    width: 650px;
+    height: 650px;
+    border-radius: 650px;
+    top: 95px;
+    left: 95px;
+}
+
+.uranus span {
+    top: 14px;
+    left: 200px;
+}
+
+.uranus img {
+    width: 12px;
+}
