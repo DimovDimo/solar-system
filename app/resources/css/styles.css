@@ -255,3 +255,21 @@ span .rhea  img {
 .uranus img {
     width: 12px;
 }
+
+span .titania {
+    top: 7px;
+    left: 10px;
+}
+
+span .titania  img {
+    width: 5px;
+}
+
+span .oberon {
+    top: 5px;
+    left: 25px;
+}
+
+span .oberon  img {
+    width: 4px;
+}
