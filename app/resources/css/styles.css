@@ -273,3 +273,20 @@ span .oberon {
 span .oberon  img {
     width: 4px;
 }
+
+.neptune {
+    width: 750px;
+    height: 750px;
+    border-radius: 750px;
+    top: 40px;
+    left: 40px;
+}
+
+.neptune span {
+    top: 105px;
+    left: 100px;
+}
+
+.neptune img {
+    width: 12px;
+}
