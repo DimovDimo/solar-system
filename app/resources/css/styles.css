@@ -290,3 +290,30 @@ span .oberon  img {
 .neptune img {
     width: 12px;
 }
+
+span .triton {
+    top: 5px;
+    left: 15px;
+}
+
+span .triton  img {
+    width: 5px;
+}
+
+span .proteus {
+    top: 15px;
+    left: 15px;
+}
+
+span .proteus  img {
+    width: 4px;
+}
+
+span .nereid {
+    top: 14px;
+    left: 3px;
+}
+
+span .nereid  img {
+    width: 3px;
+}
