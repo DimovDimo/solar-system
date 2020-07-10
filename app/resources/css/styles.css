@@ -317,3 +317,9 @@ span .nereid {
 span .nereid  img {
     width: 3px;
 }
+
+li {
+	-webkit-animation-name: planets;
+	-webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+}
