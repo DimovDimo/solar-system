@@ -319,7 +319,13 @@ span .nereid  img {
 }
 
 li {
-	-webkit-animation-name: planets;
-	-webkit-animation-timing-function: linear;
-    -webkit-animation-iteration-count: infinite;
+	animation-name: planets;
+	animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+span {
+    animation-name: satellites;
+	animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
