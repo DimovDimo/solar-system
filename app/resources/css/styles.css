@@ -96,24 +96,6 @@ span {
     width: 20px;
 }
 
-span .moon {
-    top: 11px;
-    left: 25px;
-}
-
-span .moon  img {
-    width: 7px;
-}
-
-span .space-station {
-    top: 30px;
-    left: 10px;
-}
-
-span .space-station  img {
-    width: 7px;
-}
-
 .mars {
     width: 340px;
     height: 340px;
@@ -128,24 +110,6 @@ span .space-station  img {
 
 .mars img {
     width: 15px;
-}
-
-span .phobos {
-    top: 5px;
-    left: 15px;
-}
-
-span .phobos  img {
-    width: 5px;
-}
-
-span .deimos {
-    top: 15px;
-    left: 17px;
-}
-
-span .deimos  img {
-    width: 5px;
 }
 
 .jupiter {
@@ -164,42 +128,6 @@ span .deimos  img {
     width: 20px;
 }
 
-span .io {
-    top: 15px;
-    left: 15px;
-}
-
-span .io  img {
-    width: 4px;
-}
-
-span .europa {
-    top: 20px;
-    left: 5px;
-}
-
-span .europa  img {
-    width: 5px;
-}
-
-span .ganymede {
-    top: 5px;
-    left: 25px;
-}
-
-span .ganymede  img {
-    width: 6px;
-}
-
-span .callisto {
-    top: 15px;
-    left: 25px;
-}
-
-span .callisto  img {
-    width: 3px;
-}
-
 .saturn {
     width: 540px;
     height: 540px;
@@ -214,24 +142,6 @@ span .callisto  img {
 
 .saturn img {
     width: 30px;
-}
-
-span .titan {
-    top: 20px;
-    left: 20px;
-}
-
-span .titan  img {
-    width: 5px;
-}
-
-span .rhea {
-    top: 25px;
-    left: 10px;
-}
-
-span .rhea  img {
-    width: 4px;
 }
 
 .uranus {
@@ -250,24 +160,6 @@ span .rhea  img {
     width: 12px;
 }
 
-span .titania {
-    top: 7px;
-    left: 10px;
-}
-
-span .titania  img {
-    width: 5px;
-}
-
-span .oberon {
-    top: 5px;
-    left: 25px;
-}
-
-span .oberon  img {
-    width: 4px;
-}
-
 .neptune {
     width: 750px;
     height: 750px;
@@ -284,41 +176,8 @@ span .oberon  img {
     width: 12px;
 }
 
-span .triton {
-    top: 5px;
-    left: 15px;
-}
-
-span .triton  img {
-    width: 5px;
-}
-
-span .proteus {
-    top: 15px;
-    left: 15px;
-}
-
-span .proteus  img {
-    width: 4px;
-}
-
-span .nereid {
-    top: 14px;
-    left: 3px;
-}
-
-span .nereid  img {
-    width: 3px;
-}
-
 li {
 	animation-name: planets;
-	animation-timing-function: linear;
-    animation-iteration-count: infinite;
-}
-
-span {
-    animation-name: satellites;
 	animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
