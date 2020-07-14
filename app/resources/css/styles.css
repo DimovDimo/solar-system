@@ -22,6 +22,14 @@ footer {
 li {
     position: absolute;
     border: 0.1em solid #181e30;
+	animation-name: planets;
+	animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes planets { 
+    from { transform: rotate(0deg) }
+	to { transform: rotate(-360deg) }
 }
 
 span {
@@ -54,6 +62,7 @@ span {
     border-radius: 100px;
     top: 375px;
     left: 376px;
+	animation-duration: 4s;
 }
 
 .mercury span {
@@ -65,11 +74,12 @@ span {
 }
 
 .venus {
-    width: 160px;
-    height: 160px;
-    border-radius: 160px;
-    top: 345px;
-    left: 345px;
+    width: 170px;
+    height: 170px;
+    border-radius: 170px;
+    top: 340px;
+    left: 340px;
+    animation-duration: 6s;
 }
 
 .venus span {
@@ -86,6 +96,7 @@ span {
     border-radius: 250px;
     top: 300px;
     left: 300px;
+	animation-duration: 10s;
 }
 
 .earth span {
@@ -102,6 +113,7 @@ span {
     border-radius: 350px;
     top: 255px;
     left: 255px;
+	animation-duration: 15s;
 }
 
 .mars span {
@@ -118,6 +130,7 @@ span {
     border-radius: 425px;
     top: 210px;
     left: 210px;
+	animation-duration: 20s;
 }
 
 .jupiter span {
@@ -134,6 +147,7 @@ span {
     border-radius: 540px;
     top: 150px;
     left: 150px;
+	animation-duration: 25s;
 }
 
 .saturn span {
@@ -150,6 +164,7 @@ span {
     border-radius: 650px;
     top: 95px;
     left: 95px;
+	animation-duration: 30s;
 }
 
 .uranus span {
@@ -166,6 +181,7 @@ span {
     border-radius: 750px;
     top: 40px;
     left: 40px;
+	animation-duration: 40s;
 }
 
 .neptune span {
@@ -174,10 +190,4 @@ span {
 
 .neptune img {
     width: 12px;
-}
-
-li {
-	animation-name: planets;
-	animation-timing-function: linear;
-    animation-iteration-count: infinite;
 }
