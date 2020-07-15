@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
     background: #000000;
     color: #c7d1d6;
 	text-align: center;
@@ -16,7 +16,7 @@ footer {
 
 .solar-system {
     position: relative;
-    height: 600px;
+    height: 850px;
 }
 
 li {
