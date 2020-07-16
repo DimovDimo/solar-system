@@ -1,2 +1,3 @@
-# solar-system
-Solar System
+# Solar System
+
+![Solar System](/readme-resources/solar-system.jpg)
